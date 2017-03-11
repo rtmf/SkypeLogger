@@ -43,7 +43,7 @@ Thumbs.db
 
 # Eclipse project files
 .classpath
-.project
+#.project
 
 # Android Studio
 *.iml
